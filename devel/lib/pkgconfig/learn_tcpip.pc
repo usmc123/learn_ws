@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/devel
+
+Name: learn_tcpip
+Description: Description of learn_tcpip
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

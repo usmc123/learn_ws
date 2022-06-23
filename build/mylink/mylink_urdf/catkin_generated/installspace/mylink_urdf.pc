@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/install
+
+Name: mylink_urdf
+Description: Description of mylink_urdf
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

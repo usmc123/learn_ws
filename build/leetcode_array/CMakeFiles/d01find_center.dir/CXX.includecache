@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxiao/learn_ws/src/leetcode_array/src/d01find_center.cpp
+stdio.h
+/home/wangxiao/learn_ws/src/leetcode_array/src/stdio.h
+vector
+/home/wangxiao/learn_ws/src/leetcode_array/src/vector
+

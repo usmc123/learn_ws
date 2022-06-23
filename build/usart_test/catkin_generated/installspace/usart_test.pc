@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/install
+
+Name: usart_test
+Description: Description of usart_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

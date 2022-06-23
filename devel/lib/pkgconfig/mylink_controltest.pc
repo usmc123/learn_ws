@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/devel
+
+Name: mylink_controltest
+Description: Description of mylink_controltest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

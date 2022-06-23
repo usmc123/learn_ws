@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libcomm_service.so -o /home/wangxiao/learn_ws/devel/lib/libcomm_service.so CMakeFiles/comm_service.dir/src/comm_service.cpp.o 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxiao/learn_ws/src/leetcode_array/src/d03sun_qujian.cpp
+stdio.h
+/home/wangxiao/learn_ws/src/leetcode_array/src/stdio.h
+vector
+/home/wangxiao/learn_ws/src/leetcode_array/src/vector
+iostream
+/home/wangxiao/learn_ws/src/leetcode_array/src/iostream
+algorithm
+/home/wangxiao/learn_ws/src/leetcode_array/src/algorithm
+

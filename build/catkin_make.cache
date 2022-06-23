@@ -1,0 +1,2 @@
+agv_sim/agv_sim:agv_sim/agv_sim_control_test:demo01_action:gazebo_ros_demos/gazebo_tutorials:gazebo_ros_demos/rrbot_control:gazebo_ros_demos/rrbot_description:gazebo_ros_demos/rrbot_gazebo:learn_tcpip:leetcode_array:mimic_joint_gazebo_tutorial:model_modified:mylink/mylink_control:mylink/mylink_controltest:mylink/mylink_urdf:robot_model:rplidar_ros:usart_test
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/wangxiao/learn_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wangxiao/learn_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/devel
+
+Name: model_modified
+Description: Description of model_modified
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

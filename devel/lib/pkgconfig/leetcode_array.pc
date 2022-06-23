@@ -1,0 +1,8 @@
+prefix=/home/wangxiao/learn_ws/devel
+
+Name: leetcode_array
+Description: Description of leetcode_array
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
